@@ -9,4 +9,4 @@ try:
     df.to_csv('pandaoutput2.csv', index= False)
     print("CSV has been succesfully created")
 except exception as e:
-    print("Incorrect SQL Query",e)
+    print("Incorrect SQL Query",e
